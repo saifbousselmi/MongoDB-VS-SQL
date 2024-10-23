@@ -1,0 +1,38 @@
+Diapositive 1 : Introduction
+Titre : Comparaison entre MongoDB (NoSQL) et SQL
+Contenu :
+Bref aperçu des bases de données SQL et NoSQL.
+Importance de choisir le bon type de base de données en fonction des besoins.
+Diapositive 2 : Présentation de MongoDB
+Titre : MongoDB : une base de données NoSQL
+Contenu :
+Type de données : Document (JSON-like).
+Modèle de données : Flexible, schéma dynamique.
+Fonctionnalités :
+Scalabilité horizontale.
+Haute disponibilité (réplication).
+Prise en charge de grandes quantités de données non structurées.
+Diapositive 3 : Présentation des bases de données SQL
+Titre : Bases de données SQL
+Contenu :
+Type de données : Relationnelle (tables, lignes, colonnes).
+Modèle de données : Schéma fixe.
+Fonctionnalités :
+Transactions ACID (Atomicité, Cohérence, Isolation, Durabilité).
+Relations complexes grâce aux jointures.
+Langage de requête structuré (SQL) pour des requêtes complexes.
+Diapositive 4 : Comparaison des fonctionnalités
+Titre : Comparaison : MongoDB vs SQL
+Contenu :
+Caractéristique	MongoDB	SQL
+Modèle de données	Document orienté	Relationnel
+Schéma	Dynamique	Fixe
+Scalabilité	Horizontale	Verticale
+Transactions	ACID (limitée)	ACID complète
+Langage de requête	MongoDB Query Language (MQL)	SQL
+Diapositive 5 : Cas d'utilisation et conclusion
+Titre : Cas d'utilisation et conclusion
+Contenu :
+MongoDB : Idéal pour les applications nécessitant une grande flexibilité (ex : réseaux sociaux, big data).
+SQL : Préféré pour les applications avec des données structurées et nécessitant des transactions complexes (ex : systèmes bancaires, ERP).
+Conclusion : Le choix entre MongoDB et SQL dépend des exigences spécifiques de l'application et des données à gérer.
